@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pexelstranmautritam.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Portfolio of Graphic Design Projects", 
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A collection of my graphic design projects. Includes logos, posters, and more.",
+    url: "https://mrmoaiz.myportfolio.com/",
   },
   {
     title: "Web Development for Beginners",
@@ -43,16 +43,16 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "My LinkedIn Profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My LinkedIn profile with my work experience, education, and more. Let's connect!",
+    url: "https://www.linkedin.com/in/moaaizmaatallah/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Article about challenge of creatin Marketing Strategy in 30 minutes with Ai tools",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Article about challenge of creatin Marketing Strategy in 30 minutes with Ai tools",
+    url: "https://www.linkedin.com/posts/moaaizmaatallah_marketing-marketingstrategies-business-activity-7053340127565090816-yVhJ?utm_source=share&utm_medium=member_desktop",
   },
 ];
 
